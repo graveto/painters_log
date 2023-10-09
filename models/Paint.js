@@ -21,7 +21,7 @@ const paintSchema = new Schema(
       trim: true
     },
     bottleSize: {
-      type: Int
+      type: Number
     }
   },
   {
